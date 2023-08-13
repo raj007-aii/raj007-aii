@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://raj-bhuva.vercel.app/](https://raj-bhuva.vercel.app/)
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 - 📫 How to reach me **rajbhuva25103@gmail.com**
 
