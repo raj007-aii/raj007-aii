@@ -1,5 +1,5 @@
 <img src="Black Yellow And Green Modern Sales Manager LinkedIn Article Cover Image.jpg" />
-<h1 align="center">Hi 👋, I'm Raj Bhuva</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Raj Bhuva</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://raj-bhuva.vercel.app/](https://raj-bhuva.vercel.app/)
@@ -21,11 +21,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj007-aii&label=Profile%20views&color=0e75b6&style=flat" alt="raj007-aii" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj007-aii" alt="raj007-aii" /></a> </p>
-
+## 📊 My Github Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj007-aii&show_icons=true&locale=en&layout=compact" alt="raj007-aii" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj007-aii&show_icons=true&locale=en" alt="raj007-aii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj007-aii&" alt="raj007-aii" /></p>
+
+## 🏆 My Github Trophies 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj007-aii" alt="raj007-aii" /></a> </p>
+
