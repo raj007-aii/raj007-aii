@@ -1,3 +1,4 @@
+<img src="Black Yellow And Green Modern Sales Manager LinkedIn Article Cover Image.jpg" />
 <h1 align="center">Hi 👋, I'm Raj Bhuva</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
